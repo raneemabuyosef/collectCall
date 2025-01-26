@@ -1,1 +1,1 @@
-# collectCall-MPI CC'25
+# CollectCall-MPI CC'25
